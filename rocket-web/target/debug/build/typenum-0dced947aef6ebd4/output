@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/karunparuthi/rust/rocket-web/target/debug/build/typenum-0dced947aef6ebd4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/karunparuthi/rust/rocket-web/target/debug/build/typenum-0dced947aef6ebd4/out/op.rs
